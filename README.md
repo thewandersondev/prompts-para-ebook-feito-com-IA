@@ -8,7 +8,7 @@
 </p>
 
 
-# Projeto Ebook Gerado por I.A.s
+# Projeto Ebook Gerado por I.A.s - DIO
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA.
 

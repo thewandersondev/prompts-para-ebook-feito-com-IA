@@ -2,16 +2,15 @@
 
 <p align="center">
 <img 
-    src="./assets/banner-readme.png"
+    src="./assets/capa-ebook-readme.png"
     width="300"
 />
 </p>
 
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto Ebook Gerado por I.A.s
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA.
 
 <a href="https://github.com/thewandersondev/prompts-para-ebook-feito-com-IA/blob/1b49fbeac9741b7ccbd67fda43f0a185640a0421/output/Desafio%20Ebook%20-%20O%20Hobbit%20Digital.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 ## 💻 Tecnologias utilizadas no projeto

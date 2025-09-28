@@ -13,7 +13,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/thewandersondev/prompts-para-ebook-feito-com-IA/blob/1b49fbeac9741b7ccbd67fda43f0a185640a0421/output/Desafio%20Ebook%20-%20O%20Hobbit%20Digital.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
